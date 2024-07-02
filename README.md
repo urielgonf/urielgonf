@@ -15,20 +15,22 @@
   
 <br>
 
-##My Projects*
+## My Projects*
 
 <tr>
 <td width="50%">
 <h3 align="center">Cripto Coin Gecko</h3>
 <div align="center">
-<a href="https://github.com/urielgonf/CriptoCoinApiGecko" target="_blank"><img src="https://github.com/urielgonf/CriptoCoinApiGecko/tree/master/app/src/main/java/com/myportfolio/portfoliocritocoinapplication/readmeImages/coinlist.jpg" width="400" alt="Screepshoot1"><img src="https://github.com/urielgonf/CriptoCoinApiGecko/tree/master/app/src/main/java/com/myportfolio/portfoliocritocoinapplication/readmeImages/favouritedetail.jpg" width="400" alt="Screepshoot12"></a>
-<p>
-
-</p>
+<a href="https://github.com/urielgonf/CriptoCoinApiGecko" target="_blank">
+  <img src="https://raw.githubusercontent.com/urielgonf/CriptoCoinApiGecko/master/app/src/main/java/com/myportfolio/portfoliocritocoinapplication/readmeImages/coinlist.jpg" width="400" alt="Screenshot1">
+  <img src="https://raw.githubusercontent.com/urielgonf/CriptoCoinApiGecko/master/app/src/main/java/com/myportfolio/portfoliocritocoinapplication/readmeImages/favouritedetail.jpg" width="400" alt="Screenshot2">
+</a>
+<p></p>
 <p>Aprende a programar aplicaciones <strong>Android con Kotlin desde cero</strong> - En este curso aprenderás todo lo necesario ya que no es necesario ningún conocimiento previo. Curso <strong>GRATUITO de 12 horas</strong> con todo el código disponible para descargar.</p>
 </div>
-                                                                                      
 </td>
+</tr>
+
 
 
                                                                             
