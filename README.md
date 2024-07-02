@@ -3,11 +3,11 @@
   <h1>Hi, I'm Uri 👋</h1>
   <img src="https://i.imgur.com/P7Juelw.jpg">
 </div>
+<div
 ## About Me
 
 - ⭐ Github Star ⭐ 
-- 📲 Mobile developer
-<br>
+</div>
 
 ##My Projects*
 
