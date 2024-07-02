@@ -38,10 +38,6 @@
 
 </div>
 </td>
-
-<td width="50%">
-<!-- You can add another project here or leave it empty for now -->
-</td>
 </tr>
 </table>
 <br>
