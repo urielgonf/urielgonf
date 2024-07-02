@@ -29,7 +29,7 @@
 <p>
 
 <a href="https://github.com/urielgonf/CriptoCoinApiGecko" target="_blank">
-<img src="https://img.shields.io/badge/-Code-green?style=for-the-badge&color=fbfc40">
+<img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black>
 </a>
   
 </p>
