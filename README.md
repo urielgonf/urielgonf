@@ -3,7 +3,7 @@
 <div align="center">
 <h1 align="center">Hi, I'm Uri👋</h1>
 </div>
-<img src="https://imgur.com/a/uribanner-gmhsTUw">
+<img src="https://imgur.com/a/uribanner-gmhsTUw.jpg">
 ## Sobre mi
 
 - ⭐ Github Star ⭐ 
