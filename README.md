@@ -2,7 +2,7 @@
 
 <div align="center">
   <h1>Hi, I'm Uri 👋</h1>
-  <img src="https://imgur.com/a/uribanner-gmhsTUw.jpg">
+  <img src="https://imgur.com/a/uribanner-gmhsTUw">
 </div>
 ## Sobre mi
 
