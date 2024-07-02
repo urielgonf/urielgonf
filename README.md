@@ -15,7 +15,7 @@
   
 <br>
 
-## My Projects*
+## My Projects
 <table>
 <tr>
 <td width="50%">
