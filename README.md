@@ -1,4 +1,3 @@
-## Hi there, I m Uriel  👋
 
 <div align="center">
   <h1>Hi, I'm Uri 👋</h1>
