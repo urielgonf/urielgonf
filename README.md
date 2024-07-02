@@ -7,6 +7,7 @@
 
   
 ## About Me
+
 - 💻 I’m Mechatronics Engineer specializing in robotics, software development, and electronic design.
 - 📱 Focused on Android development, mastering technologies like Firebase Firestore, dependency injection, Room database, and REST API management.
 - 🔭 I’m currently working on my own projects
@@ -16,6 +17,7 @@
 <br>
 
 ## My Projects
+
 <table>
 <tr>
 <td width="50%">
