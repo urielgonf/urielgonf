@@ -19,7 +19,7 @@
 <table>
 <tr>
 <td width="50%">
-<h2 align="center">Cripto Coin Gecko</h3>
+<h2 align="center">Cripto Coin Gecko</h2>
 <div align="center">
 <a  target="_blank">
     <img src="https://raw.githubusercontent.com/urielgonf/CriptoCoinApiGecko/master/app/src/main/java/com/myportfolio/portfoliocritocoinapplication/readmeImages/main.jpg" width="150" alt="Screenshot1">
