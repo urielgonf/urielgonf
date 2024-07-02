@@ -4,10 +4,17 @@
   <img src="https://i.imgur.com/P7Juelw.jpg">
 </div>
 <div
-## About Me
 
+  
+## About Me
+- 💻 I’m Mechatronics Engineer specializing in robotics, software development, and electronic design.
+- - 📱 Focused on Android development, mastering technologies like Firebase Firestore, dependency injection, Room database, and REST API management.
+- 🔭 I’m currently working on my own projects
+- 📫 How to reach me: email -> urielgonf@gmail.com
+                        whatsapp -> +52 2871552222
+- 🌟 Passionate about bridging the gap between software and hardware to drive technological advancements.
+  
 - ⭐ Github Star ⭐ 
-</div>
 
 ##My Projects*
 
@@ -18,12 +25,7 @@
 <p align="center">
 
 </p>
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
