@@ -34,7 +34,9 @@
 </a>
 </p>
 
+<div style="text-align: justify;">
 <p><strong>Cripto Coin Gecko</strong> is an Android application designed to monitor and track the information of 200 cryptocurrencies using the CoinGecko API. It leverages Firebase and Firestore to provide real-time updates and store user data securely.</p>
+</div>
 </div>
 </td>
 
@@ -44,4 +46,5 @@
 </tr>
 </table>
 <br>
+
 
