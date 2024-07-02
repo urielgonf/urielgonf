@@ -13,13 +13,27 @@
 - 📫 How to reach me: email -> urielgonf@gmail.com   whatsapp -> +52 2871552222 
 - 🌟 Passionate about bridging the gap between software and hardware to drive technological advancements.
   
-- ⭐ Github Star ⭐ 
+<br>
 
 ##My Projects*
 
+<tr>
+<td width="50%">
+<h3 align="center">Cripto Coin Gecko</h3>
+<div align="center">
+<a href="https://github.com/urielgonf/CriptoCoinApiGecko" target="_blank"><img src="app/src/main/java/com/myportfolio/portfoliocritocoinapplication/readmeImages/coinlist.jpg" width="400" alt="Screepshoot1"><img src="app/src/main/java/com/myportfolio/portfoliocritocoinapplication/readmeImages/favouritedetail.jpg" width="400" alt="Screepshoot12"></a>
+<p>
 
 </p>
+<p>Aprende a programar aplicaciones <strong>Android con Kotlin desde cero</strong> - En este curso aprenderás todo lo necesario ya que no es necesario ningún conocimiento previo. Curso <strong>GRATUITO de 12 horas</strong> con todo el código disponible para descargar.</p>
+</div>
+                                                                                      
+</td>
 
 
+                                                                            
 
+<br>
+
+Android application designed to monitor and track the information of 200 cryptocurrencies using the CoinGecko API. It leverages Firebase and Firestore to provide real-time updates and store user data securely.
 
