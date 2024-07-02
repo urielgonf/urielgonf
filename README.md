@@ -22,8 +22,9 @@
 <h2 align="center">Cripto Coin Gecko</h3>
 <div align="center">
 <a  target="_blank">
-  <img src="https://raw.githubusercontent.com/urielgonf/CriptoCoinApiGecko/master/app/src/main/java/com/myportfolio/portfoliocritocoinapplication/readmeImages/coinlist.jpg" width="150" alt="Screenshot1">
-  <img src="https://raw.githubusercontent.com/urielgonf/CriptoCoinApiGecko/master/app/src/main/java/com/myportfolio/portfoliocritocoinapplication/readmeImages/favouritedetail.jpg" width="150" alt="Screenshot2">
+    <img src="https://raw.githubusercontent.com/urielgonf/CriptoCoinApiGecko/master/app/src/main/java/com/myportfolio/portfoliocritocoinapplication/readmeImages/main.jpg" width="150" alt="Screenshot1">
+  <img src="https://raw.githubusercontent.com/urielgonf/CriptoCoinApiGecko/master/app/src/main/java/com/myportfolio/portfoliocritocoinapplication/readmeImages/coinlist.jpg" width="150" alt="Screenshot2">
+  <img src="https://raw.githubusercontent.com/urielgonf/CriptoCoinApiGecko/master/app/src/main/java/com/myportfolio/portfoliocritocoinapplication/readmeImages/favouritedetail.jpg" width="150" alt="Screenshot3">
 </a>
 <p>
 
