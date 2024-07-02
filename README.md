@@ -3,7 +3,7 @@
 <div align="center">
 <h1 align="center">Hi, I'm Uri👋</h1>
 </div>
-<img src="[https://i.imgur.com/weNbhGZ.png](https://imgur.com/a/gmhsTUw)">
+<img src="https://imgur.com/a/gmhsTUw">
 
 ## Sobre mi
 
