@@ -26,7 +26,7 @@
   <img src="https://raw.githubusercontent.com/urielgonf/CriptoCoinApiGecko/master/app/src/main/java/com/myportfolio/portfoliocritocoinapplication/readmeImages/favouritedetail.jpg" width="150" alt="Screenshot2">
 </a>
 <p></p>
-<p><strong>ripto Coin Gecko</strong> -is an Android application designed to monitor and track the information of 200 cryptocurrencies using the CoinGecko API. It leverages Firebase and Firestore to provide real-time updates and store user data securely.</p>
+<p><strong>Cripto Coin Gecko</strong>is an Android application designed to monitor and track the information of 200 cryptocurrencies using the CoinGecko API. It leverages Firebase and Firestore to provide real-time updates and store user data securely.</p>
 </div>
 </td>
 </tr>
