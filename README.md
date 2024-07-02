@@ -1,9 +1,9 @@
 ## Hi there, I m Uriel  👋
 
 <div align="center">
-<h1 align="center">Hi, I'm Uri👋</h1>
+  <h1>Hi, I'm Uri 👋</h1>
+  <img src="https://i.imgur.com/gmhsTUw.jpg" alt="Uriel's Banner">
 </div>
-<img src="https://imgur.com/a/uribanner-gmhsTUw.jpg">
 ## Sobre mi
 
 - ⭐ Github Star ⭐ 
