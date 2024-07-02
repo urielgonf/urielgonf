@@ -21,7 +21,7 @@
 <td width="50%">
 <h3 align="center">Cripto Coin Gecko</h3>
 <div align="center">
-<a href="https://github.com/urielgonf/CriptoCoinApiGecko" target="_blank"><img src="app/src/main/java/com/myportfolio/portfoliocritocoinapplication/readmeImages/coinlist.jpg" width="400" alt="Screepshoot1"><img src="app/src/main/java/com/myportfolio/portfoliocritocoinapplication/readmeImages/favouritedetail.jpg" width="400" alt="Screepshoot12"></a>
+<a href="https://github.com/urielgonf/CriptoCoinApiGecko" target="_blank"><img src="https://github.com/urielgonf/CriptoCoinApiGecko/tree/master/app/src/main/java/com/myportfolio/portfoliocritocoinapplication/readmeImages/coinlist.jpg" width="400" alt="Screepshoot1"><img src="https://github.com/urielgonf/CriptoCoinApiGecko/tree/master/app/src/main/java/com/myportfolio/portfoliocritocoinapplication/readmeImages/favouritedetail.jpg" width="400" alt="Screepshoot12"></a>
 <p>
 
 </p>
