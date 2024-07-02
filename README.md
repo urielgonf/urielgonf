@@ -1,9 +1,9 @@
 ## Hi there, I m Uriel  👋
 
 <div align="center">
-<h1 align="center">Hola, soy Uri👋</h1>
+<h1 align="center">Hi, I'm Uri👋</h1>
 </div>
-<img src="https://i.imgur.com/weNbhGZ.png">
+<img src="[https://i.imgur.com/weNbhGZ.png](https://imgur.com/a/gmhsTUw)">
 
 ## Sobre mi
 
