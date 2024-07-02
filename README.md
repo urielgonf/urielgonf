@@ -1,9 +1,8 @@
 
 <div align="center">
-  <h1>Hi, I'm Uri 👋</h1>
-  <img src="https://i.imgur.com/P7Juelw.jpg">
+<h1 align="center">Hi, I'm Uri 👋</h1> 
 </div>
-<div
+ <img src="https://i.imgur.com/P7Juelw.jpg">
 
   
 ## About Me
